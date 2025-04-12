@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background: #f9f8f8;
+}
+h1 {
+  text-align: center;
+  color: rgb(35, 33, 33);
+}
+h2 {
+  text-align: center;
+  color: rgb(35, 33, 33);
+}
+img {
+  margin-top: 150px;
+  margin-left: 600px;
+
+  width: 400px;
+  height: 400px;
+}
+h3 {
+  margin-top: 10px;
+  margin-left: 20px;
+  text-align: center;
+  color: rgb(35, 33, 33);
+}
